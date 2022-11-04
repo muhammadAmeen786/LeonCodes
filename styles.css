@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(92, 82, 82);
+    text-align: center;
+    margin-top: 10vh;
+}
+.color{
+    height: 300px;
+    font-size: 34px;
+    background-color: aliceblue;
+    color: red;
+}
