@@ -14,3 +14,11 @@ function showHere(){
  
 
 }
+
+let chars = document.getElementById('btnf');
+chars.addEventListener('click', count);
+function count(){
+  let ccount = document.getElementById('namechars').value;
+
+  alert(ccount.trim().length);
+}
